@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://github.com/Health-Wizard/Health-Wizard/assets/98249720/ba8e49ad-c013-4b8e-92aa-d2c3e9de18ee" alt="IntelliCare Logo" width="260" height="200">
-</p>
+<img src="https://github.com/Health-Wizard/.github/assets/98249720/efb222b5-2dda-466b-b5ce-070e744228f7" alt="IntelliCare Logo" width="260" height="200">
+
 <p align="center">
   <img src="https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS">
    <img src="https://img.shields.io/badge/Node%20JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS">
