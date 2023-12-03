@@ -7,6 +7,8 @@
    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/AI/ML-FC7925?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
+<img src="https://img.shields.io/badge/Express%20JS-61DAFB?style=for-the-badge&logo=express&logoColor=black" alt="Express JS">
 </p>
 
 # MindSync
